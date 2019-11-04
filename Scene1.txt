@@ -1,4 +1,4 @@
-#
+split1
 StartGame
-%
+split2
 Scene2
